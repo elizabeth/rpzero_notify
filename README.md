@@ -4,4 +4,4 @@ Python script which alerts if Adafruit has the Raspberry Pi Zero in stock. Check
 
 Could easily be modified to send a text alert or e-mail instead.
 
-If error occurs with using the time and sleep, run with '-u' so that it is 'python -u zero_script.py'.
+Make sure all the modules needed are installed. If an error occurs with using the time and sleep, run with '-u' so that it is 'python -u zero_script.py'.
